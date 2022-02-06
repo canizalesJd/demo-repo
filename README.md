@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-Watch tutorial oon Youtube
+Watch tutorial on Youtube
